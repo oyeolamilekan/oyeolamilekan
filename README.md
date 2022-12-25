@@ -26,6 +26,8 @@ Aside from thinking about my next super cool Open Source project, I build tiny d
 Everyday I think about how it would feel like to have a diverse skillset across various stacks in tech, and so I figured i might as well just start now, Here's a list of technologies/tools/concepts I am currently working with.
 - React ✅
 - Flutter ✅
+- Ruby ✅
+- Ruby on rails ✅
 - Python ✅
 - Django ✅
 - Node js ⏳
